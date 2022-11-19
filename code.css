@@ -34,24 +34,25 @@
 
     .key {
         background: #36393F !important;
-        color: #fff !important;
+        color: white !important;
     }
 
     .name[data-v-d73ce64c] {
-        color: #fff
+        color: white;
     }
 
     .btn[data-v-865f300b] {
-        color: #fff !important
+        color: white !important;
     }
 
     .count[data-v-6f832fcc] {
-        color: #fff
+        color: white;
     }
 
     .hero {
-        visibility: hidden
+        visibility: hidden;
     }
+
     /*Stats*/
     .show-stats {
         background: transparent !important;
@@ -59,5 +60,5 @@
 
     /*Promt*/
     .tooltip-img {
-        display: none
+        display: none;
     }
