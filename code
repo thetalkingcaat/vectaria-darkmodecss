@@ -1,0 +1,63 @@
+    /* Custom Font */
+    @font-face {
+        font-family: customFont;
+        src: url(https://raw.githubusercontent.com/South-Paw/typeface-vag-rounded/master/files/vag-rounded-400.woff2)
+    }
+
+    * {
+        font-family: customFont !important;
+    }
+    /*HotBar & Backpack*/
+    .main-pack,
+    .backpack,
+    .my-profile,
+    .name[data-v-d73ce64c],
+    .item.rarity-2,
+    .item-cont,
+    .item.rarity-undefined,
+    .item.rarity-,
+    .crafts,
+    .btn-cont[data-v-865f300b],
+    .btn[data-v-865f300b],
+    .need-items,
+    .item[data-v-6f832fcc],
+    .drag-wrapper, 
+    .chest,
+    .item.drag,
+    .item-prompt.creative {
+        background: #36393F !important;
+    }
+
+    .quantity {
+        color: white;
+    }
+
+    .key {
+        background: #36393F !important;
+        color: #fff !important;
+    }
+
+    .name[data-v-d73ce64c] {
+        color: #fff
+    }
+
+    .btn[data-v-865f300b] {
+        color: #fff !important
+    }
+
+    .count[data-v-6f832fcc] {
+        color: #fff
+    }
+
+    .hero {
+        visibility: hidden
+    }
+    /*Stats*/
+    .show-stats {
+        background: transparent !important;
+    }
+
+    /*Promt*/
+    .tooltip-img {
+        display: none
+    }
