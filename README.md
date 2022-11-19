@@ -9,5 +9,5 @@ how to use:
 
 the css cotains:
 - darkmode for hotbar, backpack and chest
-- custom font
+- custom font and prompt
 - transparent background for stats
