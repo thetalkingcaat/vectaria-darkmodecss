@@ -21,7 +21,7 @@
     .btn[data-v-865f300b],
     .need-items,
     .item[data-v-6f832fcc],
-    .drag-wrapper, 
+    .drag-wrapper,
     .chest,
     .item.drag,
     .item-prompt.creative {
@@ -57,7 +57,16 @@
         background: transparent !important;
     }
 
-    /*Promt*/
+    /*Prompt*/
     .tooltip-img {
         display: none
+    }
+
+    .wrapper[data-v-ab77cf26],
+    .item-prompt[data-v-ab77cf26] {
+        background: #36393F !important
+    }
+
+    .name[data-v-ab77cf26] {
+        color: white
     }
