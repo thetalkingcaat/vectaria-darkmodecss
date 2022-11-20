@@ -8,6 +8,6 @@ how to use:
 5. enjoy
 
 the css cotains:
-- darkmode for hotbar, backpack and chest
+- darkmode for hotbar, backpack, chest and item prompt
 - custom font and prompt
 - transparent background for stats
