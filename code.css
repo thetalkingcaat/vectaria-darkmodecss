@@ -70,3 +70,18 @@
     .name[data-v-ab77cf26] {
         color: white
     }
+
+    /*TP Request*/
+    .notify,
+    .notify-content {
+        background: #36393F !important
+    }
+
+    .name[data-v-48d9570d],
+    .request[data-v-48d9570d] {
+        color: white !important
+    }
+
+    .timer {
+        display: none
+    }
