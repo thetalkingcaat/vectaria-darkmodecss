@@ -1,3 +1,4 @@
+|v0.03|
 this css is still in its very early stages, many changes to be expected in the near future.
 
 how to use:
@@ -8,6 +9,6 @@ how to use:
 5. enjoy
 
 the css cotains:
-- darkmode for hotbar, backpack, chest and item prompt
-- custom font and prompt
+- darkmode for hotbar, backpack, chest , tp request
+- custom font and prompt 
 - transparent background for stats
