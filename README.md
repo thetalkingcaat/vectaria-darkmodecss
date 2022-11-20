@@ -1,6 +1,6 @@
-version: v0.03.1
+version: v0.04
 
-changes: added tp request dark mode (v0.031.1: fixed invisible player on global profile)
+changes: darkmode daily task interface
 
 note: this css is still in its very early stages, many changes to be expected in the near future.
 
@@ -14,6 +14,6 @@ how to use:
 
 
 the css cotains:
-- darkmode for hotbar, backpack, chest , tp request
+- darkmode for hotbar, backpack, chest , tp request and daily task interface
 - custom font and prompt 
 - transparent background for stats
