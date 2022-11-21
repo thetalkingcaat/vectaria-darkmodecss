@@ -1,6 +1,6 @@
-version: v0.04
+version: v0.04.1
 
-changes: darkmode daily task interface
+changes: darkmode daily task interface (v0.04.1: close button now only affects daily task interface)
 
 note: this css is still in its very early stages, many changes to be expected in the near future.
 
