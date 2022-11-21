@@ -86,35 +86,39 @@
         display: none
     }
 
-/*Daily Task*/
-.wrapper-classic-card.left-tasks-cont,
-.left-tasks,
-.top[data-v-babe89e7],
-.task,
-.wrapper-classic-card[data-v-babe89e7],
-.top-description,
-.base-close.close,
-.description[data-v-babe89e7],
-.rewards,
-.cont-reward,
-.reward {
-    background:#36393F !important
-}
+    /*Daily Task*/
+    .wrapper-classic-card.left-tasks-cont,
+    .left-tasks,
+    .top[data-v-babe89e7],
+    .task,
+    .wrapper-classic-card[data-v-babe89e7],
+    .top-description[data-v-babe89e7],
+    .base-close.close,
+    .description[data-v-babe89e7],
+    .rewards,
+    .cont-reward,
+    .reward {
+        background: #36393F !important
+    }
 
-.title-tasks,
-.name[data-v-babe89e7],
-.value[data-v-babe89e7],
-.desc-title,
-.description-text[data-v-babe89e7],
-.location[data-v-babe89e7],
-.reward {
-    color: white !important
-}
+    .title-tasks,
+    .name[data-v-babe89e7],
+    .value[data-v-babe89e7],
+    .desc-title,
+    .description-text[data-v-babe89e7],
+    .location[data-v-babe89e7],
+    .reward {
+        color: white !important
+    }
 
-.base-close.close {
-    border :#36393F !important
-}
+    .base-close.close[data-v-78d132c3] {
+        border: #36393F !important
+    }
 
-.cont-reward[data-v-babe89e7] {
-    border: #36393F !important
+    .cont-reward[data-v-babe89e7] {
+        border: none !important
+    }
+
+.top-description[data-v-babe89e7] {
+    border-bottom: #36393F
 }
