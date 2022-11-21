@@ -93,7 +93,7 @@
     .task,
     .wrapper-classic-card[data-v-babe89e7],
     .top-description[data-v-babe89e7],
-    .base-close.close,
+    .base-close.close[data-v-babe89e7],
     .description[data-v-babe89e7],
     .rewards,
     .cont-reward,
@@ -119,6 +119,6 @@
         border: none !important
     }
 
-.top-description[data-v-babe89e7] {
-    border-bottom: #36393F
-}
+    .top-description[data-v-babe89e7] {
+        border-bottom: #36393F
+    }
