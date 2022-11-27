@@ -89,36 +89,38 @@
     /*Daily Task*/
     .wrapper-classic-card.left-tasks-cont,
     .left-tasks,
-    .top[data-v-babe89e7],
+    .top[data-v-681e31ee],
     .task,
-    .wrapper-classic-card[data-v-babe89e7],
-    .top-description[data-v-babe89e7],
-    .base-close.close[data-v-babe89e7],
-    .description[data-v-babe89e7],
+    .wrapper-classic-card[data-v-681e31ee],
+    .top-description[data-v-681e31ee],
+    .base-close.close[data-v-681e31ee],
+    .description[data-v-681e31ee],
     .rewards,
     .cont-reward,
-    .reward {
+    .reward,
+    .end-time {
         background: #36393F !important
     }
 
     .title-tasks,
-    .name[data-v-babe89e7],
-    .value[data-v-babe89e7],
+    .name[data-v-681e31ee],
+    .value[data-v-681e31ee],
     .desc-title,
-    .description-text[data-v-babe89e7],
-    .location[data-v-babe89e7],
-    .reward {
+    .description-text[data-v-681e31ee],
+    .location[data-v-681e31ee],
+    .reward,
+    .end-time {
         color: white !important
     }
 
-    .base-close.close[data-v-78d132c3] {
+    .base-close.close[data-v-681e31ee] {
         border: #36393F !important
     }
 
-    .cont-reward[data-v-babe89e7] {
+    .cont-reward[data-v-681e31ee] {
         border: none !important
     }
 
-    .top-description[data-v-babe89e7] {
+    .top-description[data-v-681e31ee] {
         border-bottom: #36393F
     }
