@@ -11,7 +11,8 @@
     .main-pack,
     .backpack,
     .my-profile,
-    .name[data-v-d73ce64c],
+    .name[data-v-9baae85b],
+    .item.rarity-1,
     .item.rarity-2,
     .item-cont,
     .item.rarity-undefined,
@@ -37,7 +38,7 @@
         color: white !important;
     }
 
-    .name[data-v-d73ce64c] {
+    .name[data-v-9baae85b] {
         color: white
     }
 
@@ -49,9 +50,10 @@
         color: white
     }
 
-    .hero[data-v-d73ce64c] {
+    .hero[data-v-9baae85b] {
         visibility: hidden
     }
+
     /*Stats*/
     .show-stats {
         background: transparent !important;
@@ -63,8 +65,10 @@
     }
 
     .wrapper[data-v-ab77cf26],
-    .item-prompt[data-v-ab77cf26] {
-        background: #36393F !important
+    .item-prompt[data-v-ab77cf26],
+    .desc[data-v-ab77cf26]{
+        background: #36393F !important;
+        visibility: visible !important
     }
 
     .name[data-v-ab77cf26] {
@@ -124,3 +128,8 @@
     .top-description[data-v-681e31ee] {
         border-bottom: #36393F
     }
+
+/*Store*/
+.quantity[data-v-f98886fc] {
+    color: #000
+}
