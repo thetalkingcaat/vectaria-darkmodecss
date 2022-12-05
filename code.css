@@ -47,6 +47,9 @@
         color: white !important
     }
 
+    .description[data-v-ab77cf26] {
+        color: white !important
+    }
     .count[data-v-6f832fcc] {
         color: white
     }
@@ -67,7 +70,7 @@
 
     .wrapper[data-v-ab77cf26],
     .item-prompt[data-v-ab77cf26],
-    .desc[data-v-ab77cf26]{
+    .desc[data-v-ab77cf26] {
         background: #36393F !important;
         visibility: visible !important
     }
@@ -94,12 +97,12 @@
     /*Daily Task*/
     .wrapper-classic-card.left-tasks-cont,
     .left-tasks,
-    .top[data-v-681e31ee],
+    .top[data-v-5ab355b6],
     .task,
-    .wrapper-classic-card[data-v-681e31ee],
-    .top-description[data-v-681e31ee],
-    .base-close.close[data-v-681e31ee],
-    .description[data-v-681e31ee],
+    .wrapper-classic-card[data-v-5ab355b6],
+    .top-description[data-v-5ab355b6],
+    .base-close.close[data-v-5ab355b6],
+    .description[data-v-5ab355b6],
     .rewards,
     .cont-reward,
     .reward,
@@ -108,29 +111,33 @@
     }
 
     .title-tasks,
-    .name[data-v-681e31ee],
-    .value[data-v-681e31ee],
+    .name[data-v-5ab355b6],
+    .value[data-v-5ab355b6],
     .desc-title,
-    .description-text[data-v-681e31ee],
-    .location[data-v-681e31ee],
+    .description-text[data-v-5ab355b6],
+    .location[data-v-5ab355b6],
     .reward,
     .end-time {
         color: white !important
     }
 
-    .base-close.close[data-v-681e31ee] {
+    .base-close.close[data-v-5ab355b6] {
         border: #36393F !important
     }
 
-    .cont-reward[data-v-681e31ee] {
+    .cont-reward[data-v-5ab355b6] {
         border: none !important
     }
 
-    .top-description[data-v-681e31ee] {
+    .top-description[data-v-5ab355b6] {
         border-bottom: #36393F
     }
 
-/*Store*/
-.quantity[data-v-f98886fc] {
-    color: #000
-}
+    /*Store*/
+    .quantity[data-v-f98886fc] {
+        color: #000
+    }
+    
+    
+    
+    
