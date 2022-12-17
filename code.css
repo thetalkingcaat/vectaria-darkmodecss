@@ -11,7 +11,7 @@
     .main-pack,
     .backpack,
     .my-profile,
-    .name[data-v-9baae85b],
+    .name[data-v-9ef66a43],
     .rarity-0.item,
     .item.rarity-1,
     .item.rarity-2,
@@ -19,8 +19,8 @@
     .item.rarity-undefined,
     .item.rarity-,
     .crafts,
-    .btn-cont[data-v-865f300b],
-    .btn[data-v-865f300b],
+    .btn-cont[data-v-0c51df9f],
+    .btn[data-v-0c51df9f],
     .need-items,
     .item[data-v-6f832fcc],
     .drag-wrapper,
@@ -39,11 +39,11 @@
         color: white !important;
     }
 
-    .name[data-v-9baae85b] {
+    .name[data-v-9ef66a43] {
         color: white
     }
 
-    .btn[data-v-865f300b] {
+    .btn[data-v-0c51df9f] {
         color: white !important
     }
 
@@ -54,7 +54,7 @@
         color: white
     }
 
-    .hero[data-v-9baae85b] {
+    .hero[data-v-9ef66a43] {
         visibility: hidden
     }
 
@@ -137,7 +137,3 @@
     .quantity[data-v-f98886fc] {
         color: #000
     }
-    
-    
-    
-    
